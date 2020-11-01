@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 # gene set
 g=pd.read_table('h.all.v5.1.symbols.gmt',index_col=0).loc['HALLMARK_GLYCOLYSIS'][1:].values

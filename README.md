@@ -1,2 +1,2 @@
 # gsea
-GSEA implementation in python
+Simple GSEA implementation in python using pandas and numpy
